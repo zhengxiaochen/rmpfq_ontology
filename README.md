@@ -1,5 +1,5 @@
 # rmpfq_ontology
-This is a domain-level ontology focusing on the quality related factors during manufactuirng processes. It is based on the IOF:Core middle-level ontology and the BFO top-level ontology.
+This is a domain-level ontology focusing on the quality related factors during manufacturing processes. It is based on the IOF:Core middle-level ontology and the BFO top-level ontology.
 
 The organization of the vocabulary follows the RMPFQ model which covers Resource, Material, Process, Function and Quality factors. An introduction to this method is introduced in this paper:
 
